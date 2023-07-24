@@ -1,0 +1,10 @@
+Humulin N           541512        12         H2        45.0        drink             Fisons-UK                      14/12/2025
+Heparin             789145        19         H1        21.0        pills             Acadia-USA                     02/05/2023
+keytruda            397410        4          K1        52.0        injection         Novartis-France                31/12/2021
+Questran            192341        15         Q2        44.0        pills             AUG Pharma-Egypt               01/01/2024
+ketamine            501753        41         K1        100.0       drink             Fisons-UK                      05/06/2022
+Onfi                778145        13         O1        23.0        drink             Acadia-USA                     01/01/2024
+Panadol             351370        7          P1        26.0        pills             AUG Pharma-Egypt               07/08/2021
+Aleve               568940        32         A1        33.0        injection         Novartis-France                31/12/2024
+Motrin              123768        20         M2        9.0         pills             Acadia-USA                     05/04/2025
+ibuprofen           124672        11         I1        15.0        drink             Acadia-USA                     03/02/2026
